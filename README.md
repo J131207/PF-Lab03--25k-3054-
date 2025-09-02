@@ -9,4 +9,4 @@ I'm Jatin Malani, a passionate and curious programmer. I enjoy exploring new tec
 - Corn
 - rice
 ## bold + italic statment
-***This statment is bold and italic/***
+***This statment is bold and italic***
